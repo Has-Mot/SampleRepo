@@ -29,3 +29,5 @@ git log --oneline --graph
 git remote add origin => remote url
 git push -u origin master
 
+git clone => remote url
+
