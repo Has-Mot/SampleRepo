@@ -19,3 +19,5 @@ git checkout -b branchname   => create a branch and checkout that branch
 git diff
 git diff --staged
 git diff head
+
+git merge master -m "comment"
