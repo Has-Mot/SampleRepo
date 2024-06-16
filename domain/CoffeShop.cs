@@ -5,5 +5,4 @@ public class CoffeShop
     public string Address { get; set; }
     public List<Coffee> ServeList { get; set; }
     public List<string> OpenTimes { get; set; }
-        
 }
