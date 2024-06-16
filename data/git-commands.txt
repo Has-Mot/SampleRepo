@@ -21,3 +21,7 @@ git diff --staged
 git diff head
 
 git merge master -m "comment"
+
+git log --graph
+git log --oneline
+git log --oneline --graph
