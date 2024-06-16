@@ -1,0 +1,12 @@
+git init
+git config --global  ==> there are 3 level (--system/--global/--local)
+git config --global user.name "h.motallebi"
+git config --global user.email "motallebi.hassan@gmail.com"
+git config --global --list
+git config --global init.defaultBranch main
+git config --global --unset user.name
+
+git status
+
+git add 
+git reset
