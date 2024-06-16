@@ -10,3 +10,7 @@ git status
 
 git add 
 git reset
+
+git branch branchname
+git branch -a       => show the list of branches
+git checkout branchname
