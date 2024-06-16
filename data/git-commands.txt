@@ -14,3 +14,8 @@ git reset
 git branch branchname
 git branch -a       => show the list of branches
 git checkout branchname
+git checkout -b branchname   => create a branch and checkout that branch
+
+git diff
+git diff --staged
+git diff head
