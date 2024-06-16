@@ -19,6 +19,7 @@ git checkout -b branchname   => create a branch and checkout that branch
 git diff
 git diff --staged
 git diff head
+git diff master origin/master
 
 git merge master -m "comment"
 
@@ -31,3 +32,4 @@ git push -u origin master
 
 git clone => remote url
 
+git pull => (git fetch  +  git merge)
